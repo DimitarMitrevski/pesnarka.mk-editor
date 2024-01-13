@@ -1,0 +1,30 @@
+{
+  "uniqueId": "0001",
+  "title": "",
+  "originalTitle": null,
+  "authors": ["test"],
+  "compositors": ["test2"],
+  "translators": [],
+  "bibleVerses": null,
+  "description": null,
+  "youtubeLinks": [],
+  "songVersions": [
+    {
+      "alternativeTitle": null,
+      "sourceNumber": null,
+      "strophes": [
+        {
+          "row": 1,
+          "verses": [],
+          "type": "DEFAULT"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    {
+      "category": "TIME",
+      "value": "MODERNO"
+    }
+  ]
+}
